@@ -1,6 +1,6 @@
 .container {
     width: 70%;
-    margin: auto;
+    margin: 0px auto 0px;
     text-align: center;
     background-color:white;
     border-radius:5%;
@@ -16,7 +16,7 @@
   h1 {
     margin: 30px;
     font-family: 'MOntserrat';
-    font-size: 8rem;
+    font-size: 7rem;
     color: #000000;
   }
   
