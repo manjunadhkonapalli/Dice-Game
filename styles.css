@@ -1,0 +1,41 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color:white;
+    border-radius:5%;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  
+  h1 {
+    margin: 80px;
+    font-family: 'MOntserrat';
+    font-size: 8rem;
+    color: #000000;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #19513e;
+    font-family: 'verdana',sans-serif;
+  }
+  
+  img {
+    width: 60%;
+  }
+  
+  .btn{
+      margin-top:7%;
+      margin-bottom:1%;
+      font-weight:bold;
+  }
+  footer{
+      text-align:center;
+      margin:4% 0% 0%;
+  }
