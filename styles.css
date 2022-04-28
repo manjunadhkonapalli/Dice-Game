@@ -1,6 +1,6 @@
 .container {
     width: 70%;
-    margin: 100px auto 0px;
+    margin: 200px auto 0px;
     text-align: center;
     background-color:white;
     border-radius:5%;
@@ -37,5 +37,5 @@
   }
   footer{
       text-align:center;
-      margin:2% 0% 0%;
+      margin:1% 0% 0%;
   }
